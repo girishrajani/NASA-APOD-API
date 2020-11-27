@@ -1,0 +1,19 @@
+body{
+    background-color: tomato;
+    text-align: center;
+    
+}
+
+img{
+    text-align: center;
+}
+h1 {
+    font-family: 'Nerko One', cursive;
+    font-size: 300%;
+}
+
+p{
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: justify;
+    font-size: 150%;
+}
